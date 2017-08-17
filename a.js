@@ -1,5 +1,6 @@
 var a = 123;
 function a(){
-	console.log(111);
+	console.warn(12131);
 }
+console.log(789);
 console.log(456);
